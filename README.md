@@ -1,2 +1,2 @@
 # CV
-Personal website to show potential employers 
+Rough resume outline
